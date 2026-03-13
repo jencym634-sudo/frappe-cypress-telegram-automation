@@ -25,19 +25,6 @@ This simulates a **real automation pipeline used in modern QA workflows**.
 
 ---
 
-## Project Structure
-frappe-cypress-test
-│
-├── cypress/
-│ └── e2e/
-│ └── grocery.cy.js
-│
-├── sendTelegram.js
-├── cypress.config.js
-├── package.json
-└── README.md
----
-
 ## Test Workflow
 Run Cypress Test
 ↓
